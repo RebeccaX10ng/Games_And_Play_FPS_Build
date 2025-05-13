@@ -1,6 +1,8 @@
 # Games_And_Play_FPS
 [demo video](https://youtu.be/ZgrLeJ9EkoY?si=okrIn-D16eN2kY1u)
 
+**Important: The formal compiled game is included in the Tag "publish"**
+
 # Implemented Points
 - The scene is located in a mountainous terrain, and the player needs to get into a factory to complete the level.
 - The player can switch between two weapons: a pistol which is slow and has a smaller magazine, and a rifle that has a larger magazine and is automatic.
